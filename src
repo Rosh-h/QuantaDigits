@@ -1,1 +1,70 @@
 
+Train Add 
+1. Add Train
+2. View Trains
+3. Make Reservation
+4. View Tickets
+5. Exit
+Enter your choice: 1
+Train Details Input:
+ENTER THE TRAIN NUMBER: 12345
+ENTER THE NUMBER OF A/C FIRST CLASS SEATS: 10
+ENTER THE NUMBER OF A/C SECOND CLASS SEATS: 20
+ENTER THE NUMBER OF FIRST CLASS SLEEPER SEATS: 30
+ENTER THE NUMBER OF A/C CHAIR CAR SEATS: 40
+ENTER THE NUMBER OF SECOND CLASS SLEEPER SEATS: 50
+ENTER THE TRAIN NAME: Rajdhani Express
+ENTER THE STARTING POINT: Delhi
+ENTER THE DESTINATION: Mumbai
+Output:Train added successfully!
+View Trains:
+1. Add Train
+2. View Trains
+3. Make Reservation
+4. View Tickets
+5. Exit
+Enter your choice: 2
+Output:TRAIN NUMBER: 12345
+TRAIN NAME: Rajdhani Express
+NO OF A/C FIRST CLASS SEATS: 10
+NO OF A/C SECOND CLASS SEATS: 20
+NO OF FIRST CLASS SLEEPER SEATS: 30
+NO OF A/C CHAIR CAR SEATS: 40
+NO OF SECOND CLASS SLEEPER SEATS: 50
+STARTING POINT: Delhi
+DESTINATION: Mumbai
+Ticket Reserve
+1. Add Train
+2. View Trains
+3. Make Reservation
+4. View Tickets
+5. Exit
+Enter your choice: 3
+Train Number Input:
+RESERVATION
+ENTER THE TRAIN NO: 12345
+Passenger Details:
+NAME: Roshni Gupta
+AGE: 21
+SELECT THE CLASS WHICH YOU WISH TO TRAVEL
+1. A/C FIRST CLASS
+2. A/C SECOND CLASS
+3. FIRST CLASS SLEEPER
+4. A/C CHAIR CAR
+5. SECOND CLASS SLEEPER
+ENTER YOUR CHOICE: 1
+Output:
+STATUS: confirmed
+RESERVATION NO: 18273645
+View Tickets:
+1. Add Train
+2. View Trains
+3. Make Reservation
+4. View Tickets
+5. Exit
+Enter your choice: 4
+Name: Roshni Gupta
+Age: 21
+Reservation No: 18273645
+Status: confirmed
+---------------------------------
